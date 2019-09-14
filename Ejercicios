@@ -1,0 +1,5 @@
+function printString(valueString){
+ console.log('hola' + valueString);
+}
+
+printString('Camilo Torres');
